@@ -1,0 +1,3 @@
+Model Name, time
+ model_v2_batchSize_32_hidSize_128_dropPer_0.2_wordDim_2048, 2324.8412597179413
+ model_v2_batchSize_32_hidSize_256_dropPer_0.2_wordDim_2048, 2261.451457262039
