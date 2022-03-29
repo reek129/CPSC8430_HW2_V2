@@ -6,6 +6,7 @@
 2. Change ModelSaveLoc = "SavedModel_reek_v3" in main_execution() function and testmodel() in Main_Exe (Set as default). Models in this version is executed for 100 epochs
 3. To get Bleu score for other 50 models in SavedModel_reek_v2. Kindly Update the ModelSaveLoc to "SavedModel_reek_v2".(SavedModel_reek_v2- Models in this folder is executed for 5 epochs) 
 4. To ensure the bash file runs only runs the testing phase. Check "__main__" function and ensure train = False, test=True.
+5. Run hw2_seq2seq.sh with "testing_data" and result3.txt . (During Testing)
 
 ## Bleu Score for 42 models are present in final_result.csv
 
