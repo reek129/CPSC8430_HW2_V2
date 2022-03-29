@@ -17,5 +17,6 @@ Bleu score after 100 eps
 1. model_v2_batchSize_32_hidSize_256_dropPer_0.2_wordDim_2048.h5 (Bleu Score after 5 eps - 0.569901)
 2. model_v2_batchSize_32_hidSize_128_dropPer_0.2_wordDim_2048.h5 (Bleu Score after 5 eps - 0.6636857)
 
-Results from the model **model_v2_batchSize_32_hidSize_128_dropPer_0.2_wordDim_2048.h5** is giben in result3_batchSize_32_hidSize_128_dropPer_0.2_wordDim_2048.txt .
+Results from the model **model_v2_batchSize_32_hidSize_128_dropPer_0.2_wordDim_2048.h5** is given 
+in **result3_batchSize_32_hidSize_128_dropPer_0.2_wordDim_2048.txt .**__
 
