@@ -724,7 +724,7 @@ class test_data(Dataset):
 
 def testmodel(arg):
     ModelSaveLoc = "SavedModel_reek_v3"
-    ModelSaveLoc = "bestModel"
+    #ModelSaveLoc = "bestModel"
     result_pd = pd.DataFrame(columns=col)
     
     onlyfiles = [f for f in listdir(ModelSaveLoc) if isfile(join(ModelSaveLoc, f))]
