@@ -1,1 +1,0 @@
-python Main_Exe.py $1 $2
