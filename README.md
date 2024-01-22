@@ -20,3 +20,5 @@
 
 ### Results from the model **model_v2_batchSize_32_hidSize_128_dropPer_0.2_wordDim_2048.h5** is given in **result3_batchSize_32_hidSize_128_dropPer_0.2_wordDim_2048.txt .**
 
+# HW3 USE of GANS for image generation
+
